@@ -25,3 +25,36 @@ The Bot is provided "as is" without any warranties. We are not responsible for a
 ## 6. Contact
 For any questions regarding these terms, please contact [<https://discord.com/users/1272494435690610800> or <https://discord.com/users/1286961047990702124>].
 
+# Vietnamese 
+
+_Cập nhật lần cuối: [12.02.2025]_  
+
+## 1. Chấp Nhận Điều Khoản  
+Bằng việc sử dụng [Fast-Flags] ("Bot"), bạn đồng ý tuân thủ các Điều Khoản Dịch Vụ ("ToS") này.  
+Nếu bạn không đồng ý, vui lòng ngừng sử dụng Bot ngay lập tức.  
+
+## 2. Các Hành Vi Bị Cấm  
+Bạn không được sử dụng Bot cho bất kỳ mục đích bất hợp pháp, phi đạo đức hoặc độc hại nào.  
+Cụ thể, các hành vi sau đây bị nghiêm cấm:  
+
+- Sử dụng Bot để gian lận, khai thác lỗi hoặc có bất kỳ lợi thế không công bằng nào trong trò chơi.  
+- Tham gia vào hành vi quấy rối, phát ngôn thù hận hoặc bất kỳ hoạt động nào vi phạm Điều Khoản Dịch Vụ của Discord.  
+- Cố gắng dịch ngược, sửa đổi hoặc khai thác Bot.  
+- Sử dụng Bot để tự động hóa hành động vi phạm quy tắc của bất kỳ nền tảng bên thứ ba nào.  
+
+## 3. Thực Thi và Cấm  
+Bất kỳ người dùng nào vi phạm các điều khoản này, đặc biệt liên quan đến gian lận hoặc khai thác lỗi,  
+sẽ bị cấm vĩnh viễn khỏi Bot mà không cần cảnh báo trước.  
+Nhà phát triển có quyền chặn hoặc hạn chế quyền truy cập của bất kỳ người dùng nào theo quyết định riêng.  
+
+## 4. Thay Đổi Điều Khoản  
+Chúng tôi có quyền cập nhật Điều Khoản Dịch Vụ này bất kỳ lúc nào.  
+Việc tiếp tục sử dụng Bot sau khi có thay đổi đồng nghĩa với việc bạn chấp nhận các điều khoản sửa đổi.  
+
+## 5. Tuyên Bố Miễn Trừ Trách Nhiệm  
+Bot được cung cấp "nguyên trạng" mà không có bất kỳ bảo đảm nào.  
+Chúng tôi không chịu trách nhiệm cho bất kỳ thiệt hại hoặc mất mát nào phát sinh từ việc sử dụng Bot.  
+
+## 6. Liên Hệ  
+Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui lòng liên hệ:  
+[<https://discord.com/users/1272494435690610800> hoặc <https://discord.com/users/1286961047990702124>].  
