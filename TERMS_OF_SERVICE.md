@@ -27,7 +27,8 @@ For any questions regarding these terms, please contact [<https://discord.com/us
 
 # Vietnamese 
 
-_Cập nhật lần cuối: [12.02.2025]_  
+_Cập nhật lần cuối: [12.02.2025]_  ![bit ly_4hU1qrK](https://github.com/user-attachments/assets/db12e9f3-87b6-496c-8824-f5c21252ab47)
+
 
 ## 1. Chấp Nhận Điều Khoản  
 Bằng việc sử dụng [Fast-Flags] ("Bot"), bạn đồng ý tuân thủ các Điều Khoản Dịch Vụ ("ToS") này.  
@@ -59,6 +60,6 @@ Chúng tôi không chịu trách nhiệm cho bất kỳ thiệt hại hoặc m�
 Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui lòng liên hệ:  
 [<https://discord.com/users/1272494435690610800> hoặc <https://discord.com/users/1286961047990702124>].  
 
-
 # QR CODE
-https://media.discordapp.net/attachments/1287070251187703831/1351921590060978257/bit.ly_4hU1qrK.png?ex=67dc2298&is=67dad118&hm=b7267761fb0bcf52f6a28970ed8d03b15e66ff764c2588073696c06ed38c79cd&=&width=264&height=264
+https://imgur.com/a/flemish-fflags-bot-tos-j16pvuV
+
