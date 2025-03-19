@@ -61,4 +61,4 @@ Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui l
 [<https://discord.com/users/1272494435690610800> hoặc <https://discord.com/users/1286961047990702124>].  
 
 # QR CODE
-https://i.imgur.com/y69MGoq.png
+![ ](https://i.imgur.com/y69MGoq.png)
