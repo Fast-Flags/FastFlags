@@ -60,5 +60,5 @@ Chúng tôi không chịu trách nhiệm cho bất kỳ thiệt hại hoặc m�
 Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui lòng liên hệ:  
 [<https://discord.com/users/1272494435690610800> hoặc <https://discord.com/users/1286961047990702124>].  
 
-# QR CODE
+# QR Code
 ![ ](https://i.imgur.com/y69MGoq.png)
