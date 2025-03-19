@@ -27,7 +27,7 @@ For any questions regarding these terms, please contact [<https://discord.com/us
 
 # Vietnamese 
 
-_Cập nhật lần cuối: [12.02.2025]_  ![bit ly_4hU1qrK](https://github.com/user-attachments/assets/db12e9f3-87b6-496c-8824-f5c21252ab47)
+_Cập nhật lần cuối: [12.02.2025]_  
 
 
 ## 1. Chấp Nhận Điều Khoản  
