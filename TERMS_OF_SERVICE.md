@@ -58,3 +58,7 @@ Chúng tôi không chịu trách nhiệm cho bất kỳ thiệt hại hoặc m�
 ## 6. Liên Hệ  
 Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui lòng liên hệ:  
 [<https://discord.com/users/1272494435690610800> hoặc <https://discord.com/users/1286961047990702124>].  
+
+
+# QR CODE
+https://media.discordapp.net/attachments/1287070251187703831/1351921590060978257/bit.ly_4hU1qrK.png?ex=67dc2298&is=67dad118&hm=b7267761fb0bcf52f6a28970ed8d03b15e66ff764c2588073696c06ed38c79cd&=&width=264&height=264
