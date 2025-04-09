@@ -1,3 +1,10 @@
+![Discord](https://img.shields.io/discord/1286323109267505275?style=plastic&logo=discord&label=Discord&labelColor=white&color=blue&link=https://discord.gg/xF2u8hvPA5)
+
+
+
+
+
+
 # Fast Flags Bot
 [Terms of Service](https://github.com/Fast-Flags/Terms-of-Service/blob/main/TERMS_OF_SERVICE.md)
 
