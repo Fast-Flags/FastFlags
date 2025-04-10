@@ -25,7 +25,7 @@
   🇻🇳 The Vietnamese flag means the bot is in Vietnamese, not English.
 
 - 🔎 **/findflag** - Find a specific flag using a keyword.  
-  ⚠️ Studio Flags are turned off.  
+  ⚠️ There is an setting to turn off studio FFlags.  
   🔢 Supports commas and spaces for multiple keywords.  
   🔗 Use `&` for multiple FFlags (but not in the same one).
 
