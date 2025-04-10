@@ -32,8 +32,10 @@ For any questions regarding these terms, please contact [Your Contact Informatio
 ### 1. Information We Collect
 We may collect the following types of data when you use the Bot:
 - Discord User ID
+- Server ID (DMs Included)
 - Commands executed within the Bot
 - Interaction logs (for moderation and service improvement)
+- The files gaven to use the bot.
 
 ### 2. How We Use Your Data
 Your data is used strictly for the following purposes:
