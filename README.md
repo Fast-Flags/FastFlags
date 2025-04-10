@@ -1,7 +1,6 @@
 [![Discord](https://img.shields.io/discord/1286323109267505275?style=plastic&logo=discord&label=Discord&labelColor=white&color=blue)](https://discord.gg/xF2u8hvPA5)
 
-
-
+![Flemish](https://media.discordapp.net/attachments/1286964336350335040/1359812754231394404/image_16.png?ex=67f8d7d0&is=67f78650&hm=fb30071d07dd7c92eb4b34557f97fff778b4221b1c29665fc5976cfdc1cff3fd&=&format=webp&quality=lossless&width=651&height=651)
 
 
 # Fast Flags Bot
