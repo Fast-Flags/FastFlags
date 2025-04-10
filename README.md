@@ -55,7 +55,8 @@
 - **Roblox Studio Mod Manager** ✅  
   ![Roblox Studio Mod Manager](https://media.discordapp.net/attachments/1287070251187703831/1359823671501520906/download_5.png?ex=67f8e1fb&is=67f7907b&hm=be19c4b00e476b2c6179163adfeb73ab885566a9bb7efe11e7f67b32e7ca260f&=&format=webp&quality=lossless&width=64&height=64)
 
-
+- **Kliko's Modloader** ✅  
+  ![Kliko's Modloader](https://media.discordapp.net/attachments/1287070251187703831/1359877894247153744/206222821.png?ex=67f9147b&is=67f7c2fb&hm=c47baf07b9f6b2e9473c225e79d7d52f85e3a7f301da3559fa6e412a1f826539&=&format=webp&quality=lossless&width=64&height=64)
 
 
 
