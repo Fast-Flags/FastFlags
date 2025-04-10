@@ -1,6 +1,9 @@
 [![Discord](https://img.shields.io/discord/1286323109267505275?style=plastic&logo=discord&label=Discord&labelColor=white&color=blue)](https://discord.gg/xF2u8hvPA5)
 
-<img src="https://media.discordapp.net/attachments/1286964336350335040/1359813430449537174/image_161.png?ex=67f8d871&is=67f786f1&hm=c072edf10888e4769842da88f90423be358b3ccaa8f7e9620ead670d9cf1b9bb&=&format=webp&quality=lossless&width=536&height=72" alt="Example Image" width="600">
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1286964336350335040/1359813430449537174/image_161.png?ex=67f8d871&is=67f786f1&hm=c072edf10888e4769842da88f90423be358b3ccaa8f7e9620ead670d9cf1b9bb&=&format=webp&quality=lossless&width=536&height=72" alt="Example Image" width="500">
+</p>
+
 
 
 # Fast Flags Bot
