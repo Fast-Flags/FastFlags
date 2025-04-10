@@ -36,6 +36,26 @@
   🙌 Big thanks to the team!
 
 
+## Supported Bootstrappers
+ 
+ 
+ 
+- **Appleblox** - Not fully supported yet ⚠️  
+  ![Appleblox](https://media.discordapp.net/attachments/1287070251187703831/1359823672252170281/download_3.png?ex=67f8e1fb&is=67f7907b&hm=47264ae033e7a22e2ac6af17e38e91d608004e577367465998c9a0310df446d2&=&format=webp&quality=lossless&width=64&height=64)
+
+- **Lunastrap** ✅  
+  ![Lunastrap](https://media.discordapp.net/attachments/1287070251187703831/1359851962174279782/Lunastrap.png?ex=67f8fc54&is=67f7aad4&hm=f73993e8ff859d6a2c96ad9c4fa27aff87724ca5427f196bd86141b015992351&=&format=webp&quality=lossless&width=64&height=64)
+
+- **Fishstrap** ✅  
+  ![Fishstrap](https://media.discordapp.net/attachments/1287070251187703831/1359823672759812256/download_1.png?ex=67f8e1fb&is=67f7907b&hm=4fd0581f37b9003f4cebdd3f80a78ca9713531933cc04896e5d25602eebf423b&=&format=webp&quality=lossless&width=64&height=64)
+
+- **Bloxstrap** ✅  
+  ![Bloxstrap](https://media.discordapp.net/attachments/1287070251187703831/1359823671916761159/download_4.png?ex=67f8e1fb&is=67f7907b&hm=6b171b399d5a125cf5d4d3246428e99d2b8999f488162a828053fab508e43775&=&format=webp&quality=lossless&width=64&height=64)
+
+- **Roblox Studio Mod Manager** ✅  
+  ![Roblox Studio Mod Manager](https://media.discordapp.net/attachments/1287070251187703831/1359823671501520906/download_5.png?ex=67f8e1fb&is=67f7907b&hm=be19c4b00e476b2c6179163adfeb73ab885566a9bb7efe11e7f67b32e7ca260f&=&format=webp&quality=lossless&width=64&height=64)
+
+
 
 
 
