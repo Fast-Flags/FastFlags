@@ -1,4 +1,6 @@
-[![Discord](https://img.shields.io/discord/1286323109267505275?style=plastic&logo=discord&label=Discord&labelColor=white&color=blue)](https://discord.gg/xF2u8hvPA5)
+ ![License](https://img.shields.io/badge/License-ARR-blue?style=plastic&labelColor=white) [![Discord](https://img.shields.io/discord/1286323109267505275?style=plastic&logo=discord&label=Discord&labelColor=white&color=blue)](https://discord.gg/xF2u8hvPA5)
+
+# FastFlags Bot
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1286964336350335040/1359813430449537174/image_161.png?ex=67f8d871&is=67f786f1&hm=c072edf10888e4769842da88f90423be358b3ccaa8f7e9620ead670d9cf1b9bb&=&format=webp&quality=lossless&width=536&height=72" alt="Example Image" width="500">
@@ -6,10 +8,36 @@
 
 
 
-# Fast Flags Bot
-[Terms of Service](https://github.com/Fast-Flags/Terms-of-Service/blob/main/TERMS_OF_SERVICE.md)
+## Commands
 
-[Privacy Policy](https://github.com/Fast-Flags/FastFlags/blob/main/PRIVACY_POLICY.md)
+- ✅ **/checklist** - Checks for invalid and outdated flags in your list.  
+  📄 Supports JSON and TXT.  
+  🔄 Also finds newer versions of FastFlags in your list [Replacement Flags].
+
+- 🔍 **/checkflag** - Checks an FFlag and shows specific functions & features.  
+  📝 Use commas for multiple FFlags.  
+  ✅ Works with JSON format too.
+
+- 🔄 **/convertjson** - Converts keys and values to JSON format.  
+  ✨ Separate multiple keys/values with commas.
+
+- 🌍 **/checkservers** - Shows all servers the bot is in with additional info.  
+  🇻🇳 The Vietnamese flag means the bot is in Vietnamese, not English.
+
+- 🔎 **/findflag** - Find a specific flag using a keyword.  
+  ⚠️ Studio Flags are turned off.  
+  🔢 Supports commas and spaces for multiple keywords.  
+  🔗 Use `&` for multiple FFlags (but not in the same one).
+
+- ✨ **/newfflags** - Finds new flags since the last 24 hours.
+  🔔 Stay updated!
+
+- 👏 **/credits** - Credits the people who contributed to this bot.  
+  🙌 Big thanks to the team!
+
+
+
+
 
 
 ## Wanna use the bot
@@ -90,4 +118,11 @@ Server ID: 1286323109267505275
 Owner: **lrjp**  
 Server ID: 1346760094578249728  
 🔗 Invite: [https://discord.gg/gmAKzgyNgg](https://discord.gg/gmAKzgyNgg)
+
+
+## Terms of Service and Policy of Privacy
+
+[Terms of Service](https://github.com/Fast-Flags/Terms-of-Service/blob/main/TERMS_OF_SERVICE.md)
+
+[Privacy Policy](https://github.com/Fast-Flags/FastFlags/blob/main/PRIVACY_POLICY.md)
 
