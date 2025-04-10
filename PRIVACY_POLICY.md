@@ -35,7 +35,7 @@ We may collect the following types of data when you use the Bot:
 - Server ID (DMs Included)
 - Commands executed within the Bot
 - Interaction logs (for moderation and service improvement)
-- The files gaven to use the bot.
+- The files given to use the bot.
 
 ### 2. How We Use Your Data
 Your data is used strictly for the following purposes:
