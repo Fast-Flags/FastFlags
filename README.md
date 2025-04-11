@@ -3,7 +3,9 @@
 # FastFlags Bot
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/1286964336350335040/1359813430449537174/image_161.png?ex=67f8d871&is=67f786f1&hm=c072edf10888e4769842da88f90423be358b3ccaa8f7e9620ead670d9cf1b9bb&=&format=webp&quality=lossless&width=536&height=72" alt="Example Image" width="500">
+  <a href="https://postimg.cc/LhP8Qmfj">
+    <img src="https://i.postimg.cc/8kKf55zX/image-16-1.png" alt="image-16-1.png">
+  </a>
 </p>
 
 
