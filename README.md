@@ -18,8 +18,8 @@
 
 - 🔍 **/checkflag** - Checks an FFlag and shows specific functions & features.  
   📝 Use commas for multiple FFlags.  
-  ✅ Works with AppleBlox JSON format too.
-  ✅Can Convert JSON To INI.
+  ✅ Works with AppleBlox JSON format too.  
+  ✅ Can convert JSON to INI.
 
 - 🔄 **/convertjson** - Converts keys and values to JSON format.  
   ✨ Separate multiple keys/values with commas.
