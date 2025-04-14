@@ -118,7 +118,13 @@ Owner: **moorcs**
 Server ID: 1292671260089647286  
 🔗 Invite: [https://discord.gg/dAHdfARQsc](https://discord.gg/dAHdfARQsc)
 
-**__ʜᴇʟʟꜱ ᴡᴏʀᴋꜱʜᴏᴘ__**   
+**__Zynx's Home__**
+ | 581 Members
+Owner: lacedbyalover
+Server ID: 1287182033591865375
+🔗 Invite: [https://discord.gg/wq7treQjWM](https://discord.gg/wq7treQjWM)
+
+**Void Studios**   
 Owner: **braticc**  
 Server ID: 1333479052853383199  
 🔗 Invite: [https://discord.gg/vp9KdYEmNG](https://discord.gg/vp9KdYEmNG)
