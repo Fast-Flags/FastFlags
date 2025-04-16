@@ -17,12 +17,12 @@
   🔄 Also finds newer versions of FastFlags in your list [Replacement Flags].
 
 - 🔍 **/checkflag** - Checks an FFlag and shows specific functions & features.  
-  📝 Use commas for multiple FFlags.  
-  ✅ Works with AppleBlox JSON format too.  
-  ✅ Can convert JSON to INI.
+  📝 Use commas for multiple FFlags.
 
 - 🔄 **/convertjson** - Converts keys and values to JSON format.  
   ✨ Separate multiple keys/values with commas.
+  ✅ Can convert JSON to INI.
+  ✅ Works with AppleBlox JSON format too. 
 
 - 🌍 **/checkservers** - Shows all servers the bot is in with additional info.  
   🇻🇳 The Vietnamese flag means the bot is in Vietnamese, not English.
