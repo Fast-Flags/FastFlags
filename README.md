@@ -22,7 +22,9 @@
 - 🔄 **/convertjson** - Converts keys and values to JSON format.  
   ✨ Separate multiple keys/values with commas.
   ✅ Can convert JSON to INI.
-  ✅ Works with AppleBlox JSON format too. 
+  ✅ Works with AppleBlox JSON format too.
+
+
 
 - 🌍 **/checkservers** - Shows all servers the bot is in with additional info.  
   🇻🇳 The Vietnamese flag means the bot is in Vietnamese, not English.
