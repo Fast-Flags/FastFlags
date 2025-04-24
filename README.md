@@ -115,11 +115,6 @@ Owner: **tunn6xwithasix**
 Server ID: 1196138636429770803  
 🔗 Invite: [https://discord.gg/PCaQQk3rER](https://discord.gg/PCaQQk3rER)
 
-**__[🥥] Scroom's Lounge (CLAN)__**  
-Owner: **moorcs**  
-Server ID: 1292671260089647286  
-🔗 Invite: [https://discord.gg/dAHdfARQsc](https://discord.gg/dAHdfARQsc)
-
 __Zynx's Home__  
 Owner: lacedbyalover  
 Server ID: 1287182033591865375  
