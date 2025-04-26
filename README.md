@@ -167,3 +167,7 @@ Server ID: 1346760094578249728
 
 [Privacy Policy](https://github.com/Fast-Flags/FastFlags/blob/main/PRIVACY_POLICY.md)
 
+
+
+
+Made in Belgium🖤💛❤️
