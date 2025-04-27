@@ -10,10 +10,11 @@
 
 ---
 
-## Terms of Service and Privacy Policy
+## `Terms of Service`, `Privacy Policy`, `License`:
 
-- [Terms of Service](https://github.com/Fast-Flags/Terms-of-Service/blob/main/TERMS_OF_SERVICE.md)
-- [Privacy Policy](https://github.com/Fast-Flags/FastFlags/blob/main/PRIVACY_POLICY.md)
+- # [License](https://github.com/Fast-Flags/FastFlags/blob/main/License)
+- # [Terms of Service](https://github.com/Fast-Flags/Terms-of-Service/blob/main/TERMS_OF_SERVICE.md)
+- # [Privacy Policy](https://github.com/Fast-Flags/FastFlags/blob/main/PRIVACY_POLICY.md)
 
 ---
 
