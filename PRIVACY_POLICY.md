@@ -58,6 +58,8 @@ We reserve the right to update this Privacy Policy at any time. Continued use of
 ### 6. Contact
 For any privacy-related inquiries, please contact [<https://discord.com/users/1272494435690610800> or <https://discord.com/users/1286961047990702124>].
 
+---
+
 # Vietnamese
 
 # Điều Khoản Dịch Vụ & Chính Sách Bảo Mật
@@ -118,6 +120,7 @@ Chúng tôi có quyền cập nhật Chính Sách Bảo Mật này bất kỳ l�
 ### 6. Liên Hệ
 Đối với bất kỳ câu hỏi nào liên quan đến quyền riêng tư, vui lòng liên hệ [<https://discord.com/users/1272494435690610800> hoặc <https://discord.com/users/1286961047990702124>].
 
+---
 # QR Code
 
 ![ ](https://i.imgur.com/y69MGoq.png)
