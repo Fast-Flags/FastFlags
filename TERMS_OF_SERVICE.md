@@ -25,6 +25,8 @@ The Bot is provided "as is" without any warranties. We are not responsible for a
 ## 6. Contact
 For any questions regarding these terms, please contact [<https://discord.com/users/1272494435690610800> or <https://discord.com/users/1286961047990702124>].
 
+---
+
 # Vietnamese 
 
 _Cập nhật lần cuối: [12.02.2025]_  
@@ -59,6 +61,8 @@ Chúng tôi không chịu trách nhiệm cho bất kỳ thiệt hại hoặc m�
 ## 6. Liên Hệ  
 Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui lòng liên hệ:  
 [<https://discord.com/users/1272494435690610800> hoặc <https://discord.com/users/1286961047990702124>].  
+
+---
 
 # QR Code
 ![ ](https://i.imgur.com/y69MGoq.png)
