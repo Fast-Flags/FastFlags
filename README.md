@@ -48,6 +48,7 @@
 
 ## Supported Bootstrappers
 
+
 - **AppleBlox** — Not fully supported yet ⚠️  
   <a href="https://postimg.cc/YGRhrHNd">
     <img src="https://i.postimg.cc/C5TD4MRp/download-3.png" alt="download-3.png" width="64" height="64">
@@ -82,7 +83,18 @@
   <a href="https://postimg.cc/ppYXxksT">
     <img src="https://i.postimg.cc/28gqQKv4/download-6.png" alt="download-6.png" width="64" height="64">
   </a>
-  
+
+**ChevStrap** ✅
+<a href="https://postimg.cc/MHK50PPC">
+  <img src="https://i.postimg.cc/MHK50PPC/Untitled84-20250510205640.png" alt="ChevStrap" width="64" height="64">
+</a>
+
+
+
+
+
+
+
 ---
 
 ### Wanna use the bot?:
