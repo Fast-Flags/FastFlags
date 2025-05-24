@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/License-ARR-blue?style=plastic&labelColor=white) [![Discord](https://img.shields.io/discord/1286323109267505275?style=plastic&logo=discord&label=Discord&labelColor=white&color=blue)](https://discord.gg/xF2u8hvPA5) [![Stars](https://img.shields.io/github/stars/Fast-Flags/FastFlags?style=plastic&label=⭐%20Stars&labelColor=yellow&color=8B0000)](https://github.com/Fast-Flags/FastFlags/stargazers)
+![License](https://img.shields.io/badge/License-ARR-blue?style=plastic&labelColor=white) [![Discord](https://img.shields.io/discord/1286323109267505275?style=plastic&logo=discord&label=Discord&labelColor=white&color=blue)](https://discord.gg/xF2u8hvPA5) [![Stars](https://img.shields.io/github/stars/Fast-Flags/FastFlags?style=plastic&label=⭐%20Stars&labelColor=ffffff&color=007ec6)](https://github.com/Fast-Flags/FastFlags/stargazers)
 
 
 
