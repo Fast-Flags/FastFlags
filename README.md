@@ -10,7 +10,8 @@
   </a>
 </p>
 
-
+# WIKI HOW TO USE BOT:
+https://github.com/Fast-Flags/FastFlags/wiki/FindFlag
 
 ## Commands:
 
