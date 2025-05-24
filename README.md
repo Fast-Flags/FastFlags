@@ -12,13 +12,6 @@
 
 ---
 
-## `Terms of Service`, `Privacy Policy`, `License`:
-
-- # [License](https://github.com/Fast-Flags/FastFlags/blob/main/License)
-- # [Terms of Service](https://github.com/Fast-Flags/Terms-of-Service/blob/main/TERMS_OF_SERVICE.md)
-- # [Privacy Policy](https://github.com/Fast-Flags/FastFlags/blob/main/PRIVACY_POLICY.md)
-
----
 
 ## Commands:
 
@@ -101,6 +94,14 @@
 
 ### Wanna use the bot?:
 Join the Discord, if you want to use in a different server u can use it via using /checkservers
+
+---
+
+## `Terms of Service`, `Privacy Policy`, `License`:
+
+- # [License](https://github.com/Fast-Flags/FastFlags/blob/main/License)
+- # [Terms of Service](https://github.com/Fast-Flags/Terms-of-Service/blob/main/TERMS_OF_SERVICE.md)
+- # [Privacy Policy](https://github.com/Fast-Flags/FastFlags/blob/main/PRIVACY_POLICY.md)
 
 ---
 
