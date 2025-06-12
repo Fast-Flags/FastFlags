@@ -39,11 +39,21 @@ https://github.com/Fast-Flags/FastFlags/wiki
   🔢 Supports commas and spaces for multiple keywords.  
   🔗 Use `&` to search for multiple FFlags (not in the same one).
 
+- 🔗 **/mergelist** - Merges 2 flag sources together.
+  🔗 Combines 2 FFlag lists or text together.
+  
+- 🎰 **/randomflag** - Finds random flags [default 25]
+  📜 Choose what file u want or even both.
+  ❔ Choose what type of FastFlag you like.
+  🔢 Choose the amount you want.
+
 - ✨ **/newfflags** — Lists new flags discovered within the past 24 hours.  
   🔔 Stay updated!
 
 - 👏 **/credits** — Shows credits for the contributors.  
   🙌 Huge thanks to the team!
+
+  
 
 ## Supported Bootstrappers
 
