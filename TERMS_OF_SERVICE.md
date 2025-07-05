@@ -12,6 +12,7 @@ You may not use the Bot for any illegal, unethical, or malicious purposes. Speci
 - Engaging in harassment, hate speech, or any activity that violates Discord's Terms of Service.
 - Attempting to reverse engineer, modify, or exploit the Bot.
 - Using the Bot to automate actions in a way that violates the rules of any third-party platform.
+- Users who have been banned must not allow others to use the Bot on their behalf.
 
 ## 3. Enforcement and Bans
 Any user found violating these terms, especially in relation to cheating or exploiting, will be permanently banned from using the Bot without prior warning. The developers reserve the right to block or restrict access to any user at their discretion.
