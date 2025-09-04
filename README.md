@@ -92,6 +92,13 @@ https://github.com/Fast-Flags/FastFlags/wiki
   <a href="https://postimg.cc/ppYXxksT">
     <img src="https://i.postimg.cc/28gqQKv4/download-6.png" alt="download-6.png" width="64" height="64">
   </a>
+  
+- **Lution** ✅  
+  <a href="https://lutiondocs.vercel.app">
+    <img src="https://raw.githubusercontent.com/Wookhq/Lution/refs/heads/latest/src/Lution/files/lution1.svg" alt="download-6.png" width="64" height="64">
+  </a>
+
+<sub>both is the same lol</sub>
 
 - **ChevStrap** ✅
 <a href="https://postimg.cc/MHK50PPC">
