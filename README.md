@@ -80,6 +80,9 @@
 | **Vinegar** | ✅ Supported | <a href="https://postimg.cc/qR3tgk8v"><img src="https://i.postimg.cc/qR3tgk8v/vinegar.png" width="48"></a> |
 | **Plexity** | ✅ Supported | <a href="https://postimg.cc/k4K4qTmV"><img src="https://i.postimg.cc/k4K4qTmV/Plexity.png" width="48"></a> |
 | **Froststrap** | ✅ Supported | <a href="https://postimg.cc/Wb23cmf3"><img src="https://i.postimg.cc/Wb23cmf3/Froststrap.png" width="48"></a> |
+| **Luczystrap** | ✅ Supported | <a href="https://postimg.cc/3NCxSMNF"><img src="https://i.postimg.cc/3NCxSMNF/Luczystrap.png" width="48"></a> |
+| **AzureStrap** | ✅ Supported | <a href="https://postimg.cc/bvWrdHKf"><img src="https://i.postimg.cc/bvWrdHKf/Azure-Strap.webp" width="48"></a> |
+
 
 
 ---
