@@ -59,7 +59,7 @@
 - **Version Tracker** — Tracks updates on the main production channel.  
 - **Flog Tracker** — Follows Roblox FLog archives, the method Roblox now uses to track changes.  
 - **SpriteSheets Tracker** — Tracks Roblox pictogram changes, useful for modders who want to know when they update.
-
+- **C++ Tracker** — Tracks the C++ structure of Roblox.
 
 ---
 
