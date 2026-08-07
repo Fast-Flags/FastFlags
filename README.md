@@ -91,7 +91,7 @@ If you want to use it in a different server, you can run **/checkservers**.
 
 ## 📜 Terms & Legal
 
-- 📘 [License](https://github.com/Fast-Flags/FastFlags/blob/main/License)  
+- 📘 [License](https://github.com/Fast-Flags/FastFlags?tab=License-1-ov-file)
 - 📘 [Terms of Service](https://github.com/Fast-Flags/Terms-of-Service/blob/main/TERMS_OF_SERVICE.md)  
 - 📘 [Privacy Policy](https://github.com/Fast-Flags/FastFlags/blob/main/PRIVACY_POLICY.md)  
 
