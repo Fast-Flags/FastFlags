@@ -70,10 +70,7 @@
 | **AppleBlox** | ⚠️ Not fully supported | <a href="https://postimg.cc/YGRhrHNd"><img src="https://i.postimg.cc/C5TD4MRp/download-3.png" width="48"></a> |
 | **Fishstrap** | ✅ Supported | <a href="https://postimg.cc/62dFRb24"><img src="https://i.postimg.cc/xC7QwW95/download-1.png" width="48"></a> |
 | **Bloxstrap** | ✅ Supported | <a href="https://postimg.cc/jwVGDY5r"><img src="https://i.postimg.cc/wv3Hb6Y3/download-4.png" width="48"></a> |
-| **Roblox Studio Mod Manager** | ✅ Supported | <a href="https://postimg.cc/SnR05G5H"><img src="https://i.postimg.cc/pLY2mGBV/download-5.png" width="48"></a> |
-| **Kliko's Modloader** | ✅ Supported | <a href="https://postimg.cc/3WjHDNmf"><img src="https://i.postimg.cc/zD6D6RBN/206222821.png" width="48"></a> |
 | **Sober** | ⚠️ Not fully supported | <a href="https://postimg.cc/ppYXxksT"><img src="https://i.postimg.cc/28gqQKv4/download-6.png" width="48"></a> |
-| **Lution** | ✅ Supported | <a href="https://lutiondocs.vercel.app"><img src="https://raw.githubusercontent.com/Wookhq/Lution/refs/heads/latest/src/Lution/files/lution1.svg" width="48"></a> |
 | **GrapeJuice** | ✅ Supported | <a href="https://postimg.cc/zfMbJLHQ"><img src="https://i.postimg.cc/zfMbJLHQ/Grape-Juice.png" width="48"></a> |
 | **Vinegar** | ✅ Supported | <a href="https://postimg.cc/qR3tgk8v"><img src="https://i.postimg.cc/qR3tgk8v/vinegar.png" width="48"></a> |
 | **Froststrap** | ✅ Supported | <a href="https://postimg.cc/Wb23cmf3"><img src="https://i.postimg.cc/Wb23cmf3/Froststrap.png" width="48"></a> |
