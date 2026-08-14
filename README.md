@@ -116,9 +116,9 @@ Shows credits for everyone who made this bot possible. 🙌
 | Bootstrapper | Status | Logo | Platform(s) |
 |:---:|:---:|:---:|:---:|
 | **AppleBlox** | ⚠️ Partial | <img src="https://i.postimg.cc/C5TD4MRp/download-3.png" width="40"> | ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) |
+| **Froststrap** | ✅ Full | <img src="https://i.postimg.cc/Wb23cmf3/Froststrap.png" width="40"> | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Fishstrap** | ✅ Full | <img src="https://i.postimg.cc/xC7QwW95/download-1.png" width="40"> | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white) |
 | **Bloxstrap** | ✅ Full | <img src="https://i.postimg.cc/wv3Hb6Y3/download-4.png" width="40"> | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white) |
-| **Froststrap** | ✅ Full | <img src="https://i.postimg.cc/Wb23cmf3/Froststrap.png" width="40"> | ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Sober** | ⚠️ Partial | <img src="https://i.postimg.cc/28gqQKv4/download-6.png" width="40"> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **GrapeJuice** | ✅ Full | <img src="https://i.postimg.cc/zfMbJLHQ/Grape-Juice.png" width="40"> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Vinegar** | ✅ Full | <img src="https://i.postimg.cc/qR3tgk8v/vinegar.png" width="40"> | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
