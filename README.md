@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/discord/1286323109267505275?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=5865F2)](https://discord.gg/xF2u8hvPA5)
 [![Stars](https://img.shields.io/github/stars/Fast-Flags/FastFlags?style=for-the-badge&label=⭐%20STARS&labelColor=black&color=FFD700)](https://github.com/Fast-Flags/FastFlags/stargazers)
 [![Watchers](https://img.shields.io/github/watchers/Fast-Flags/FastFlags?style=for-the-badge&label=👀%20WATCHERS&labelColor=black&color=00BFFF)](https://github.com/Fast-Flags/FastFlags/watchers)
-
+![Python](https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
 <br>
 
 <a href="https://postimg.cc/LhP8Qmfj">
