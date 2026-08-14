@@ -2,7 +2,7 @@
 
 # 🚩 FastFlags Bot
 
-### The ultimate Roblox FastFlag toolkit — validate, discover, and track FFlags in seconds.
+### The ultimate Roblox FastFlag bot — validate, discover, and track FFlags in seconds.
 
 ![License](https://img.shields.io/badge/License-ARR-blue?style=for-the-badge&labelColor=black)
 [![Discord](https://img.shields.io/discord/1286323109267505275?style=for-the-badge&logo=discord&label=Discord&labelColor=black&color=5865F2)](https://discord.gg/xF2u8hvPA5)
