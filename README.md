@@ -54,7 +54,7 @@
 
 ## 📊 Trackers
 
-- **Deployment Tracker** — Tracks updates for all Roblox platforms except PC and PlayStation.  
+- **Deployment Tracker** — Tracks updates for all Roblox platforms.  
 - **Build Tracker** — Monitors Roblox testing channels, for example **ZBeta**.  
 - **Version Tracker** — Tracks updates on the main production channel.  
 - **Flog Tracker** — Follows Roblox FLog archives, the method Roblox now uses to track changes.  
