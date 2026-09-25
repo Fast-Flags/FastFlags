@@ -85,7 +85,15 @@ Lists flags discovered in the last 24 hours.
 - 🔔 Stay on top of every update
 
 </td></tr>
-<tr><td colspan="2">
+<tr><td width="50%">
+
+### 🛠️ `/presets`
+Fetches and applies curated FastFlag presets based on desired performance and graphics.
+- 📉 Low Quality (Max Performance)
+- ⚖️ Mid Quality (Balanced)
+- 🌟 High Quality (Best Graphics)
+
+</td><td width="50%">
 
 ### 👏 `/credits`
 Shows credits for everyone who made this bot possible. 🙌
